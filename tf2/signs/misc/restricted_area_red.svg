@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="restricted_area_red.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="2.5620932"
+     inkscape:cx="379.57245"
+     inkscape:cy="469.73311"
+     inkscape:window-width="3840"
+     inkscape:window-height="2091"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="90.800027"
+       y="307.72653"
+       width="562.73938"
+       height="234.86572"
+       id="rect17988" />
+    <rect
+       x="85.476984"
+       y="152.21929"
+       width="585.4588"
+       height="115.92084"
+       id="rect3138" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="sign"
+     style="opacity:1">
+    <rect
+       style="fill:#e0ddcb;fill-opacity:1;stroke-width:12.9431"
+       id="rect969"
+       width="173.062"
+       height="116.57932"
+       x="12.12162"
+       y="31.947041"
+       ry="5.5856881" />
+    <rect
+       style="fill:#a7503c;fill-opacity:1;stroke-width:14.7381"
+       id="rect12193"
+       width="161.90396"
+       height="35.231178"
+       x="17.700478"
+       y="37.91938"
+       ry="2.3777215" />
+    <text
+       xml:space="preserve"
+       id="text3136"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5222px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:5.29167px;white-space:pre;shape-inside:url(#rect3138);fill:#deddcf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1,0,0,2.4426331,-62.541,-337.70201)"><tspan
+         x="85.476562"
+         y="166.20044"
+         id="tspan858"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 -5.2916727 5.2916727"
+           id="tspan856">RESTRICTED AREA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.70960054,0.87626167)"
+       id="text17986"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect17988);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="131.51367"
+       y="0"><tspan
+         x="109.96289"
+         y="369.78692"
+         id="tspan860">AUTHORIZED
+</tspan><tspan
+         x="123.24414"
+         y="449.78692"
+         id="tspan862">PERSONNEL
+</tspan><tspan
+         x="264.72852"
+         y="529.78692"
+         id="tspan864">ONLY</tspan></text>
+    <g
+       id="g38968"
+       transform="translate(0.549963)">
+      <rect
+         style="fill:#191109;stroke-width:15"
+         id="rect38808"
+         width="42.991592"
+         height="2.4097145"
+         x="19.241245"
+         y="130.83682"
+         ry="0" />
+      <rect
+         style="fill:#191109;stroke-width:15"
+         id="rect38856"
+         width="42.991592"
+         height="2.4097145"
+         x="133.97247"
+         y="130.83682"
+         ry="0" />
+    </g>
+  </g>
+</svg>
