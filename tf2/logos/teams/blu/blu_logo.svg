@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="team_blu.svg"
+   inkscape:export-filename="K:\Merchandise\TF2\teams\blu\team_blu.png"
+   inkscape:export-xdpi="1040.38"
+   inkscape:export-ydpi="1040.38"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="1.8116735"
+     inkscape:cx="147.92952"
+     inkscape:cy="401.28643"
+     inkscape:window-width="2609"
+     inkscape:window-height="2082"
+     inkscape:window-x="1215"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <rect
+       x="245.11208"
+       y="216.22945"
+       width="529.25475"
+       height="402.01504"
+       id="rect2284" />
+    <rect
+       x="263.84677"
+       y="512.86191"
+       width="443.38747"
+       height="68.693833"
+       id="rect58951" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="sign"
+     style="display:inline;opacity:1">
+    <rect
+       style="display:inline;fill:#e0d36d;fill-opacity:1;stroke-width:0.499999"
+       id="rect945"
+       width="200"
+       height="144.5"
+       x="0"
+       y="26.249981"
+       ry="1.8071975" />
+    <rect
+       style="display:inline;fill:#58808b;fill-opacity:1;stroke-width:21.0993"
+       id="rect6623"
+       width="192.04736"
+       height="135.60533"
+       x="3.9763184"
+       y="30.697315"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.9645117,5.2342936)"
+       id="text58949"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.3333px;line-height:125%;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4px;word-spacing:0px;white-space:pre;shape-inside:url(#rect58951);display:inline;fill:#c8d0c0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="263.84766"
+         y="544.22854"
+         id="tspan1">BUILDERS LEAGUE UNITED</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22387623,-0.05194622,0.06172843,0.17773021,7.3642848,27.068588)"
+       id="text2282"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:355.319px;line-height:125%;font-family:Bayformance;-inkscape-font-specification:'Bayformance Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2284);fill:#e0e3cf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="245.11133"
+         y="544.89859"
+         id="tspan2">BLU</tspan></text>
+    <path
+       id="path56979"
+       style="fill:#e0e3cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.38086,520.6582 5.6875,11.19141 c 23.36373,9.87742 46.15736,16.13978 68.64648,13.01758 56.58672,-7.85603 86.76754,-36.99795 106.94336,-66.74219 8.24064,-14.13691 16.60129,-27.60321 22.66211,-43.91992 l 28.04883,-9.1836 -0.75195,-181.08007 -53.47266,12.09961 c -28.87458,-5.11088 -37.62391,-35.555 -95.71484,-46.05079 -10.89205,-1.96796 -20.85222,-2.84537 -30.05664,-2.78711 -39.88582,0.25247 -65.59186,18.09032 -91.552738,41.0625 -40.6704,40.57001 -47.706136,77.79047 -48.789062,88.06446 l 12.761719,24.33984 m 0,0 43.029297,-27.45508 90.812504,-51.04492 89.61132,53.12305 -1.19921,104.16992 -90.8125,51.04492 -55.85352,30.15039"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccscccccsscccccccccc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e0e3cf;fill-opacity:1;stroke:none;stroke-width:1.88976"
+       id="path58550"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="177.18425"
+       sodipodi:cy="378.10345"
+       sodipodi:r1="96.448997"
+       sodipodi:r2="83.527283"
+       sodipodi:arg1="0.58165348"
+       sodipodi:arg2="1.1052523"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 257.77273,431.09314 -86.18465,43.29682 -80.58848,-52.98968 5.596173,-96.28651 86.184647,-43.29683 80.58848,52.98969 z"
+       transform="matrix(0.26086734,-0.01214865,0.01214865,0.26086734,-3.3397,5.7365113)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="sign 1"
+     style="display:inline">
+    <g
+       inkscape:label="WireframeSphere"
+       transform="matrix(0.44545217,-0.23365905,0.23365905,0.44545217,47.47533,102.2188)"
+       id="g62092"
+       style="display:inline;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <circle
+         style="fill:#c4be4e;fill-opacity:1;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path62090"
+         cx="0"
+         cy="0"
+         r="26.458334" />
+      <g
+         inkscape:label="Lines of Longitude"
+         id="g62080"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:cx="0"
+           sodipodi:cy="0"
+           sodipodi:rx="0.46269125"
+           sodipodi:ry="26.458334"
+           sodipodi:start="1.5707963"
+           sodipodi:end="4.712389"
+           sodipodi:open="true"
+           sodipodi:type="arc"
+           sodipodi:arc-type="arc"
+           transform="rotate(0.0174542)"
+           id="path62070"
+           d="m 0,26.458334 a 0.46269125,26.458334 0 0 1 -0.40070237,-13.229167 0.46269125,26.458334 0 0 1 0,-26.458334 A 0.46269125,26.458334 0 0 1 0,-26.458334" />
+        <path
+           style="fill:none;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:cx="0"
+           sodipodi:cy="0"
+           sodipodi:rx="15.921597"
+           sodipodi:ry="26.458334"
+           sodipodi:start="1.5707963"
+           sodipodi:end="4.712389"
+           sodipodi:open="true"
+           sodipodi:type="arc"
+           sodipodi:arc-type="arc"
+           transform="rotate(0.753472)"
+           id="path62072"
+           d="m 0,26.458334 a 15.921597,26.458334 0 0 1 -13.788507,-13.229167 15.921597,26.458334 0 0 1 0,-26.458334 A 15.921597,26.458334 0 0 1 0,-26.458334" />
+        <path
+           style="fill:none;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:cx="0"
+           sodipodi:cy="0"
+           sodipodi:rx="15.174565"
+           sodipodi:ry="26.458334"
+           sodipodi:start="4.712389"
+           sodipodi:end="1.5707963"
+           sodipodi:open="true"
+           sodipodi:type="arc"
+           sodipodi:arc-type="arc"
+           transform="rotate(-0.700137)"
+           id="path62078"
+           d="M 0,-26.458334 A 15.174565,26.458334 0 0 1 15.174565,0 15.174565,26.458334 0 0 1 0,26.458334" />
+      </g>
+      <g
+         inkscape:label="Lines of Latitude"
+         id="g62088"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:cx="0"
+           sodipodi:cy="18.706017"
+           sodipodi:rx="18.708866"
+           sodipodi:ry="0.32751474"
+           sodipodi:start="0.017455951"
+           sodipodi:end="3.1241367"
+           sodipodi:open="true"
+           sodipodi:type="arc"
+           sodipodi:arc-type="arc"
+           id="path62082"
+           d="M 18.706016,18.711733 A 18.708866,0.32751474 0 0 1 0,19.033531 18.708866,0.32751474 0 0 1 -18.706016,18.711733" />
+        <path
+           style="fill:none;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:cx="0"
+           sodipodi:cy="1.6198055e-15"
+           sodipodi:rx="26.458334"
+           sodipodi:ry="0.46276158"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           sodipodi:open="true"
+           sodipodi:type="arc"
+           sodipodi:arc-type="arc"
+           id="path62084"
+           d="m 26.458334,0 a 26.458334,0.46276158 0 0 1 -13.229167,0.40076329 26.458334,0.46276158 0 0 1 -26.458335,-10e-9 A 26.458334,0.46276158 0 0 1 -26.458334,0" />
+        <path
+           style="fill:none;stroke:#e0e3cf;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:cx="0"
+           sodipodi:cy="-18.706017"
+           sodipodi:rx="18.708866"
+           sodipodi:ry="0.32751474"
+           sodipodi:start="6.2657294"
+           sodipodi:end="3.1590486"
+           sodipodi:open="true"
+           sodipodi:type="arc"
+           sodipodi:arc-type="arc"
+           id="path62086"
+           d="m 18.706016,-18.711733 a 18.708866,0.32751474 0 0 1 -9.2574664,0.288395 18.708866,0.32751474 0 0 1 -18.8970998,0 18.708866,0.32751474 0 0 1 -9.2574658,-0.288395" />
+      </g>
+    </g>
+  </g>
+</svg>
